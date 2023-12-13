@@ -13,7 +13,7 @@ https://dadosabertos.go.gov.br/dataset/
 https://dadosabertos.bndes.gov.br/dataset
 http://www.dados.ms.gov.br/dataset
 https://dados.pe.gov.br/dataset
-https://dados.fortaleza.ce.gov.br/dataset/ //imprimindo duplicado
+https://dados.fortaleza.ce.gov.br/dataset/ //imprimindo duplicado(consegui colher os sublinks, mas tive que mudar o código, mas já foi retornado para o padrão)
 https://dados.turismo.gov.br/dataset/
 https://dados.agricultura.gov.br/dataset
 https://dados.antt.gov.br/dataset
